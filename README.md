@@ -2,6 +2,12 @@
 
 A mechanical counting device that increases the displayed value discretely with the help of a gear with 10 teeth. With every push of one of the teeth of the gear, depending on the direction, the tally can increase or decrease with 1 unit. The tally can display up to two digits with the help of a two-gear mechanism.
 
+Render:
+<img width="1920" height="632" alt="PROIECT_SUS" src="https://github.com/user-attachments/assets/24d181fa-486f-4ea0-a1af-5d75a6cbead9" />
+<img width="1920" height="632" alt="PROIECTSIDE" src="https://github.com/user-attachments/assets/e0cac528-f094-43d3-9edf-446230c898ff" />
+<img width="1920" height="632" alt="PROIECTJOS" src="https://github.com/user-attachments/assets/ec2552c3-58ce-4264-90f1-626472e20195" />
+
+
 ## Inspired by
 
 - https://www.printables.com/model/76018-mechanical-tally-counter-50
